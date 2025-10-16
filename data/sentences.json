@@ -1,0 +1,23 @@
+{
+  "easy": [
+    "The quick brown fox jumps over the lazy dog.",
+    "Programming is fun and challenging at the same time.",
+    "I enjoy reading books and learning new things every day.",
+    "The sun shines brightly in the clear blue sky.",
+    "Coding requires patience, practice, and persistence."
+  ],
+  "medium": [
+    "JavaScript is a versatile programming language used for web development.",
+    "The complexity of the universe arises from simple fundamental laws.",
+    "Artificial intelligence is transforming various industries worldwide.",
+    "Effective communication skills are essential in professional environments.",
+    "Climate change poses significant challenges for future generations."
+  ],
+  "hard": [
+    "Quantum computing leverages quantum mechanical phenomena to perform computations.",
+    "The epistemological foundations of scientific methodology warrant careful examination.",
+    "Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections.",
+    "Postmodernist literature often challenges conventional narrative structures and linear temporality.",
+    "Cryptocurrencies utilize decentralized control as opposed to centralized digital currency systems."
+  ]
+}
